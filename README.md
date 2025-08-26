@@ -20,8 +20,7 @@ Built a fully functional **Calculator Web Application** to practice DOM manipula
 2. Use the calculator buttons or keyboard to perform calculations.
 
 ---
-🎥 **LinkedIn Video**  
-Watch the demonstration video on LinkedIn:  
-[LinkedIn Video Link](https://www.linkedin.com/posts/activity-7366023249647865856-92Tv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxllrAB2mP6usCdZraySPtZAqF6EL0J9c0)
+🎥 **LinkedIn Video**   
+[LinkedIn Post 🔗](https://www.linkedin.com/posts/activity-7366023249647865856-92Tv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxllrAB2mP6usCdZraySPtZAqF6EL0J9c0)
 
 *This project demonstrates practical JavaScript skills including DOM manipulation and event handling.*
